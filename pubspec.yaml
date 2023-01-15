@@ -15,7 +15,7 @@ dependencies:
   esc_pos_utils_forked: ^1.0.3
   # esc_pos_utils_forked:
   #   path: "../esc_pos_utils"
-  network_info_plus: ^3.0.1
+  network_info_plus: ^2.1.4+1
   image: ^3.0.8
 
 dev_dependencies:
